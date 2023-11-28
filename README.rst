@@ -17,7 +17,7 @@ Templates and filter files still here: https://github.com/gbrammer/eazy-photoz/.
 .. note::
     Please submit any questions/comments/problems you have through the `Issues <https://github.com/gbrammer/eazy-py/issues>`_ interface.
 
-Installation instructions
+Installation instructions blimp
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code:: bash
